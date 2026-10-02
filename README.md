@@ -5,18 +5,9 @@ A beginner-friendly collection of Python examples covering the core building blo
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Variables](#variables)
-3. [Data Types](#data-types)
-4. [Operators](#operators)
-5. [Input and Output](#input-and-output)
-6. [Control Statements](#control-statements)
-7. [Loops](#loops)
-8. [Data Structures](#data-structures)
-9. [Functions](#functions)
-10. [Error Handling](#error-handling)
-11. [File Handling](#file-handling)
-12. [Project Structure](#project-structure)
-13. [Learning Path](#learning-path)
+2. [Data Types](#data-types)
+3. [Variables](#variables)
+
 
 ---
 
@@ -29,16 +20,6 @@ Check your version:
 ```bash
 python3 --version
 ```
-
-Clone the repository and run any example:
-
-```bash
-git clone git@github.com:YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
-python3 01_variables.py
-```
-
----
 
 ## Variables
 
@@ -331,33 +312,11 @@ Using `with` closes the file automatically.
 
 ```
 .
-├── 01_variables.py
-├── 02_data_types.py
-├── 03_operators.py
-├── 04_input_output.py
-├── 05_control_statements.py
-├── 06_loops.py
-├── 07_data_structures.py
-├── 08_functions.py
-├── 09_error_handling.py
-├── 10_file_handling.py
+├── 1_hello.py
+├── 2-data_types.py
+├── 3-variables.py
 └── README.md
 ```
-
-Adjust the file names to match your own files.
-
----
-
-## Learning Path
-
-1. Read each section above, then run the matching `.py` file
-2. Change the values and see what happens
-3. Write your own small programs, for example:
-   - Calculator
-   - Even/odd checker
-   - Multiplication table
-   - Number guessing game
-   - Simple to-do list
 
 ---
 
@@ -375,4 +334,4 @@ Suggestions and improvements are welcome. Open an issue or submit a pull request
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
